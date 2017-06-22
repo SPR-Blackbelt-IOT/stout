@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "accounts_sidatalake_name": {
+            "value": null
+        },
+        "IotHubs_si_iot_hub_name": {
+            "value": null
+        },
+        "namespaces_si_eventhub_name": {
+            "value": null
+        },
+        "workspaceCollections_si_powerbi_name": {
+            "value": null
+        },
+        "storageAccounts_sistorageacct_name": {
+            "value": null
+        },
+        "serverfarms_si_app_plan_name": {
+            "value": null
+        },
+        "sites_si_app_webjobs_name": {
+            "value": null
+        },
+        "sites_si_app_functions_name": {
+            "value": null
+        },
+        "sites_si_stout_insights_name": {
+            "value": null
+        },
+        "AuthorizationRules_RootManageSharedAccessKey_name": {
+            "value": null
+        },
+        "eventhubs_alerts_name": {
+            "value": null
+        },
+        "consumergroups_$Default_name": {
+            "value": null
+        },
+        "consumergroups_cg_alerts_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "config_web_name_1": {
+            "value": null
+        },
+        "config_web_name_2": {
+            "value": null
+        }
+    }
+}
